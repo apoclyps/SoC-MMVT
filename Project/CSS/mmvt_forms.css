@@ -1,0 +1,177 @@
+/* 
+				Standard form config
+	Applied by default to all form elements unless overridden.
+*/
+
+input, select, textarea {
+	clear: both;
+	width: 98%;
+	margin-left: 4px;
+	margin-right: 4px;
+	color: #4e4e4e;
+	background: #FFFFFF;
+	border: 1px solid #cccccc;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+}
+
+label {
+	clear: both;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #4e4e4e;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+	font-weight: bold;
+}
+
+.button {
+	clear: both;
+	width:auto;
+	color: #ffcc00;
+	background: #000000;
+	border: 1px solid #999999;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+	font-weight: bold;
+}
+
+.button2 {
+	clear: both;
+	width:65%;
+	height:20%;
+	color: #ffffff;
+	background: #000000;
+	padding-bottom: 15px;
+	text-align:left;
+	border: 1px solid #999999;
+	font: 14px "Helvetica", "Verdana", "Arial", sans_serif;
+	font-weight: bold;
+}
+
+.button2_lighter {
+	clear: both;
+	width:65%;
+	height:20%;
+	color: #ffffff;
+	background: #7F7F7F;
+	padding-bottom: 15px;
+	text-align:left;
+	border: 1px solid #999999;
+	font: 14px "Helvetica", "Verdana", "Arial", sans_serif;
+	font-weight: bold;
+}
+
+/*     
+				Dual column form layout
+	Used to arrange 2 column forms within a single body column.
+*/
+
+.half_width_field_container_left {
+	/* container for left column */
+	width: 45%;
+	margin-left: 0px;
+	margin-right: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0px;
+	float: left;
+	border: none;
+	display: table-cell;
+	text-align: left;
+}
+
+.half_width_field_container_right {
+	/* container for right column */
+	width: 45%;
+	margin-left: 5px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0px;
+	float: right;
+	border: none;
+	text-align: left;
+	display: table-cell;
+}
+
+.full_width_field_container {
+	/* span container */
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	float: none;
+	border: none;
+	text-align: left;
+}
+
+/*
+		 dual column form elements
+*/
+
+.half_width_field_container_left input, .half_width_field_container_left select {
+	clear: both;
+	width: 100%;
+	margin-left: 4px;
+	margin-right: 4px;
+	color: #4e4e4e;
+	background: #FFFFFF;
+	border: 1px solid #cccccc;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+}
+
+.half_width_field_container_left label {
+	clear: both;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #4e4e4e;
+	text-align: left;
+	font-weight: bold;
+}
+
+.half_width_field_container_left .button {
+	clear: both;
+	color: #ffcc00;
+	background: #000000;
+	border: 1px solid #999999;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+	font-weight: bold;
+}
+
+.half_width_field_container_right input, .half_width_field_container_left select {
+	clear: both;
+	width: 100%;
+	margin-left: 4px;
+	margin-right: 4px;
+	color: #4e4e4e;
+	background: #FFFFFF;
+	border: 1px solid #cccccc;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+}
+
+.half_width_field_container_right label {
+	clear: both;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: #4e4e4e;
+	text-align: left;
+	font-weight: bold;
+}
+
+.half_width_field_container_right .button {
+	clear: both;
+	margin-top: 11px;
+	color: #ffcc00;
+	background: #000000;
+	border: 1px solid #999999;
+	font: 11px "Helvetica", "Verdana", "Arial", sans_serif;
+	font-weight: bold;
+}

@@ -1,0 +1,15 @@
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('D1VB 52A7','1','1','29741','01/01/2006','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('T2EU 44X3','2','2','25122','01/01/2005','1');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('L5KH 18J9','3','3','8241','01/01/2003','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('X0SP 30R7','4','4','19581','01/01/2007','1');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('U0SZ 23S4','5','5','25614','01/01/2002','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('T0BH 90K4','6','6','15865','01/01/2003','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('Y9ZR 48O4','7','7','23493','01/01/2008','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('Y6MK 79O5','8','8','5612','01/01/2007','1');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('D3GU 84W7','9','9','13371','01/01/2003','1');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('L6NP 46Y7','10','10','28506','01/01/2003','1');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('P7PY 73O7','11','11','34293','01/01/2002','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('X2US 47H3','12','12','31763','01/01/2004','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('X6FW 35X0','13','13','10663','01/01/2007','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('F1RC 31Y3','14','14','11403','01/01/2007','0');
+INSERT INTO Vehicle (registrationNumber,customerId,modelId,mileage,year,modified) VALUES ('S6KA 26Q8','15','15','29293','01/01/2001','0');

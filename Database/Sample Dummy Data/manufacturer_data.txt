@@ -1,0 +1,15 @@
+INSERT INTO Manufacturer (description) VALUES ('nec');
+INSERT INTO Manufacturer (description) VALUES ('lacinia');
+INSERT INTO Manufacturer (description) VALUES ('nibh.');
+INSERT INTO Manufacturer (description) VALUES ('magna.');
+INSERT INTO Manufacturer (description) VALUES ('a,');
+INSERT INTO Manufacturer (description) VALUES ('tincidunt,');
+INSERT INTO Manufacturer (description) VALUES ('purus');
+INSERT INTO Manufacturer (description) VALUES ('a');
+INSERT INTO Manufacturer (description) VALUES ('ac,');
+INSERT INTO Manufacturer (description) VALUES ('adipiscing');
+INSERT INTO Manufacturer (description) VALUES ('a');
+INSERT INTO Manufacturer (description) VALUES ('Morbi');
+INSERT INTO Manufacturer (description) VALUES ('ac,');
+INSERT INTO Manufacturer (description) VALUES ('nisi');
+INSERT INTO Manufacturer (description) VALUES ('non');

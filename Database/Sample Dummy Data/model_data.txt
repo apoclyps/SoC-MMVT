@@ -1,0 +1,15 @@
+INSERT INTO Model (manufacturerId,description) VALUES ('1','ornare');
+INSERT INTO Model (manufacturerId,description) VALUES ('2','justo');
+INSERT INTO Model (manufacturerId,description) VALUES ('3','sodales.');
+INSERT INTO Model (manufacturerId,description) VALUES ('4','porttitor');
+INSERT INTO Model (manufacturerId,description) VALUES ('5','rutrum');
+INSERT INTO Model (manufacturerId,description) VALUES ('6','auctor,');
+INSERT INTO Model (manufacturerId,description) VALUES ('7','arcu');
+INSERT INTO Model (manufacturerId,description) VALUES ('8','fermentum');
+INSERT INTO Model (manufacturerId,description) VALUES ('9','ligula');
+INSERT INTO Model (manufacturerId,description) VALUES ('10','congue.');
+INSERT INTO Model (manufacturerId,description) VALUES ('11','tincidunt');
+INSERT INTO Model (manufacturerId,description) VALUES ('12','et,');
+INSERT INTO Model (manufacturerId,description) VALUES ('13','sociis');
+INSERT INTO Model (manufacturerId,description) VALUES ('14','Etiam');
+INSERT INTO Model (manufacturerId,description) VALUES ('15','Nullam');

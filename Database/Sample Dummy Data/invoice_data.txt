@@ -1,0 +1,15 @@
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('11/01/11','25','05/03/11','20.5','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('05/06/11','521.47','09/30/11','716.28','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('10/24/11','1017.94','05/02/11','1412.06','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('05/14/11','1514.41','11/10/11','2107.84','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('08/20/11','2010.88','09/09/11','2803.62','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('05/02/11','2507.35','12/04/11','3499.4','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('04/06/11','3003.82','11/06/11','4195.18','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('02/17/12','3500.29','03/11/12','4890.96','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('07/30/11','3996.76','06/28/11','5586.74','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('05/08/11','4493.23','04/08/11','6282.52','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('06/21/11','4989.7','04/16/11','6978.3','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('05/24/11','5486.17','05/04/11','7674.08','1');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('03/26/12','5982.64','03/06/12','8369.86','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('11/24/11','6479.11','06/02/11','9065.64','0');
+INSERT INTO Invoice (date,totalAmount,estimatedTime,estimatedPrice,paid) VALUES ('04/17/11','6975.58','09/22/11','9761.42','1');

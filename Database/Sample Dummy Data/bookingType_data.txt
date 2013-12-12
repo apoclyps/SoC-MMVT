@@ -1,0 +1,15 @@
+INSERT INTO BookingType (description) VALUES ('risus, at fringilla purus mauris');
+INSERT INTO BookingType (description) VALUES ('Morbi neque tellus, imperdiet non,');
+INSERT INTO BookingType (description) VALUES ('eu arcu. Morbi sit amet');
+INSERT INTO BookingType (description) VALUES ('Nunc ut erat. Sed nunc');
+INSERT INTO BookingType (description) VALUES ('aliquam eu, accumsan sed, facilisis');
+INSERT INTO BookingType (description) VALUES ('nibh. Aliquam ornare, libero at');
+INSERT INTO BookingType (description) VALUES ('orci, consectetuer euismod est arcu');
+INSERT INTO BookingType (description) VALUES ('ligula consectetuer rhoncus. Nullam velit');
+INSERT INTO BookingType (description) VALUES ('ligula. Nullam enim. Sed nulla');
+INSERT INTO BookingType (description) VALUES ('Cum sociis natoque penatibus et');
+INSERT INTO BookingType (description) VALUES ('lectus pede, ultrices a, auctor');
+INSERT INTO BookingType (description) VALUES ('Donec consectetuer mauris id sapien.');
+INSERT INTO BookingType (description) VALUES ('Suspendisse aliquet molestie tellus. Aenean');
+INSERT INTO BookingType (description) VALUES ('Donec egestas. Aliquam nec enim.');
+INSERT INTO BookingType (description) VALUES ('adipiscing ligula. Aenean gravida nunc');

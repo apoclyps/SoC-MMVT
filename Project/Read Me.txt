@@ -1,0 +1,23 @@
+Group 7 AC22003 Internet Authoring Read Me
+
+
+Account information:
+
+Username - Password - Account type
+Victoria - Hello - Admin
+Hadassah - Hello - User
+Adam - Hello - Admin
+Raven - Hello - Admin
+Leilani - Hello - User
+Rebecca	- Hello - Admin
+Jayme - Hello - Admin
+Scarlett - Hello - User
+Curran - Hello - User
+
+Passwords are case sensitive.
+
+Known issues:
+No sign up page
+No validation - will cause uncaught exceptions particularly in the booking form for staff members to add a booking which expects a time format HH:MM (we had planned to change this to dropdown lists)
+If a customer tries to edit their details they do not save correctly (for some reason it reads the previous value out of the form not the new one)
+Will accecpt bookings in the past

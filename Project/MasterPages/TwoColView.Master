@@ -1,0 +1,81 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TwoColView.Master.cs" Inherits="MMVT.ScheduleView" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Mobile/Motor Vehicle Technicians</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" type="text/css" href="~/CSS/mmvt_body.css" />
+    <link rel="stylesheet" type="text/css" href="~/CSS/mmvt_2col.css" />
+    <link rel="stylesheet" type="text/css" href="~/CSS/mmvt_forms.css" />
+
+
+</head>
+<body>
+<div id="header_container">
+		<div class="header_content">
+			<img src="http://namek.computing.dundee.ac.uk/2011-ac22003/group07/logo.png" class="logo" width="251" height="108" alt="Mobile/Motor Vehicle Technicians logo image" />
+			<div id="menu_container">
+			
+			<!-- from here -->
+				 <asp:ContentPlaceHolder ID="MainMenu" runat="server">
+        
+                 </asp:ContentPlaceHolder>
+			<!-- to here, can be built dynamically -->
+			</div>
+		</div>
+	</div>
+
+    <form id="ScheduleForm" runat="server">
+    <asp:ScriptManager ID="ScriptManager1" runat="server">
+    </asp:ScriptManager>
+
+    <div id="body_container">
+		<div class="sch_col_left">
+		    <asp:ContentPlaceHolder ID="LeftColumn" runat="server">
+        
+            </asp:ContentPlaceHolder>
+
+            <!-- hack to enforce percent based col widths -->
+            <p style="color:White">
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+            . . . . . . . . . . .
+            </p>
+            <!-- end hack to enforce percent based col widths -->
+		</div>
+
+
+		<div class="sch_col_right">
+			 <asp:ContentPlaceHolder ID="RightColumn" runat="server">
+        
+            </asp:ContentPlaceHolder>
+			
+
+		</div>
+	</div>
+	
+    </form>
+
+	<div id="footer_container">
+		<div class="footer_content">
+			Copyright 2012 MVT all rights reserved.
+		</div>
+	</div>
+
+
+
+   
+</body>
+</html>

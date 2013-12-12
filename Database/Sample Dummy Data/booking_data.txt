@@ -1,0 +1,15 @@
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('D1VB 52A7','1','1','02/14/12','2011-12-23 14:31:03','6','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('T2EU 44X3','2','2','05/27/11','2011-12-06 02:50:42','7','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('L5KH 18J9','3','3','10/20/12','2012-07-09 11:09:25','7','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('X0SP 30R7','4','4','11/14/12','2012-05-19 17:11:25','2','1');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('U0SZ 23S4','5','5','05/29/11','2011-09-05 05:44:35','5','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('T0BH 90K4','6','6','05/04/12','2011-07-17 21:16:01','5','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('Y9ZR 48O4','7','7','10/15/12','2013-02-24 06:08:41','1','1');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('Y6MK 79O5','8','8','04/20/11','2013-02-09 00:34:23','8','1');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('D3GU 84W7','9','9','04/15/12','2012-04-10 08:08:00','10','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('L6NP 46Y7','10','10','07/24/11','2013-03-19 18:05:13','10','1');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('P7PY 73O7','11','11','03/24/13','2012-09-05 09:37:59','9','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('X2US 47H3','12','12','10/03/12','2012-11-08 03:58:55','3','1');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('X6FW 35X0','13','13','03/19/12','2012-10-20 15:25:08','10','0');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('F1RC 31Y3','14','14','11/16/12','2011-06-21 05:40:48','4','1');
+INSERT INTO Booking (vehicleRegistrationNumber,bookingTypeId,invoiceId,date,time,priority,confirmed) VALUES ('S6KA 26Q8','15','15','08/26/11','2012-10-06 00:52:21','6','0');

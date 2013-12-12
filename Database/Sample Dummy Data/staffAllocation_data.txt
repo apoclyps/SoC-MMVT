@@ -1,0 +1,14 @@
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('1','Victoria');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('2','Hadassah');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('3','Adam');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('4','Raven');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('5','Leilani');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('6','Jayme');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('7','Scarlett');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('8','Curran');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('9','Nicole');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('10','Meredith');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('11','Melodie');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('12','Victor');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('13','Igor');
+INSERT INTO StaffAllocation (jobId,staffAccountUsername) VALUES ('14','Sawyer');

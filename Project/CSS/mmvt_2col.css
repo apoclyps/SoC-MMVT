@@ -1,0 +1,32 @@
+/* template for 2 column layout used to create the schedule page */
+
+/* body_col_left, body_col_right define subsections of the body to create columns. */
+.sch_col_left {
+	width: 62%;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	background-color: white;
+	border: none;
+	display: table-cell;
+	text-align: left;
+}
+
+.sch_col_right {
+	width: 31%;
+	margin: 0px;
+	padding: 0px;
+	float: right;
+	background-color: white;
+	border: none;
+	display: table-cell;
+	text-align: left;
+}
+
+
+.spacer {
+	width:100%;
+	height:1px;
+	display:inline;
+}
+

@@ -1,0 +1,15 @@
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Victoria','Stacy','Padilla','99732 572514','73286 484490','ornare@mollislectuspede.ca');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Hadassah','Hammett','Park','92666 923175','65884 522972','sollicitudin@gravidanon.ca');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Adam','Dale','Finch','11578 260588','14393 745043','at@infaucibus.org');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Raven','August','Richard','51918 735783','69898 262767','Suspendisse@massa.org');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Leilani','Naida','Odom','52843 716295','65444 351537','placerat@elitpretium.ca');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Rebecca','Graiden','Kinney','99773 145765','42086 512675','metus.eu@cursusnonegestas.org');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Jayme','Hakeem','Williams','33890 305881','42340 191268','a.dui.Cras@penatibusetmagnis.edu');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Scarlett','Hilary','Mcdonald','56935 966445','68792 702929','Ut.tincidunt.vehicula@dis.org');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Curran','Chester','Buck','86770 376921','58028 398681','amet.ultricies@vel.com');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Nicole','Trevor','Love','17275 303905','25417 347206','libero.Donec@luctus.com');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Meredith','Isabelle','Christian','24942 572873','58990 724445','laoreet@Mauris.com');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Melodie','Aquila','Roach','62257 414791','14993 165409','enim@FuscemollisDuis.org');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Victor','Montana','Mckay','83818 659029','23412 718369','mus@sed.ca');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Igor','Candice','Mckee','30911 876779','78219 591327','nunc.sed@loremipsum.org');
+INSERT INTO Customer (accountUsername,firstName,surname,homePhoneNumber,mobilePhoneNumber,emailAddress) VALUES ('Sawyer','Brett','Rich','93884 961649','52774 723966','risus.Nulla.eget@ut.org');

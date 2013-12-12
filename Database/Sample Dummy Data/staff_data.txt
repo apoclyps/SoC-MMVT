@@ -1,0 +1,14 @@
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Victoria','Stacy','Padilla');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Hadassah','Hammett','Park');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Adam','Dale','Finch');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Raven','August','Richard');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Leilani','Naida','Odom');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Jayme','Hakeem','Williams');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Scarlett','Hilary','Mcdonald');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Curran','Chester','Buck');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Nicole','Trevor','Love');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Meredith','Isabelle','Tinker');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Melodie','Aquila','Harmony');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Victor','Montana','Liz');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Igor','Candice','Jim');
+INSERT INTO Staff (accountUsername,firstName,surname) VALUES ('Sawyer','Brett','Rosie');

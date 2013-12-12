@@ -1,0 +1,10 @@
+INSERT INTO Account (username,password,type) VALUES ('Victoria','NhX4DJ0pPtdAJof5SyLVjlKbjMeRb4+sf933+9WvTPd309eVp6AKFr9+fz+5Vh7puq5IDan+ehh2nnGIawPzFQ==','Admin');
+INSERT INTO Account (username,password,type) VALUES ('Hadassah','NhX4DJ0pPtdAJof5SyLVjlKbjMeRb4+sf933+9WvTPd309eVp6AKFr9+fz+5Vh7puq5IDan+ehh2nnGIawPzFQ==','User');
+INSERT INTO Account (username,password,type) VALUES ('Adam','enim.','Admin');
+INSERT INTO Account (username,password,type) VALUES ('Raven','tortor.','Admin');
+INSERT INTO Account (username,password,type) VALUES ('Leilani','Donec','User');
+INSERT INTO Account (username,password,type) VALUES ('Rebecca','dolor','Admin');
+INSERT INTO Account (username,password,type) VALUES ('Jayme','nunc','Admin');
+INSERT INTO Account (username,password,type) VALUES ('Scarlett','parturient','User');
+INSERT INTO Account (username,password,type) VALUES ('Curran','at','User');
+

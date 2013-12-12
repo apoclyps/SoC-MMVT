@@ -1,0 +1,15 @@
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('1','216-3002 Massa. St.','GNT','New Kensington','BD45 7IW');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('2','683-8181 Ac Street','GMP','Lock Haven','H32 6PK');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('3','Ap #561-1325 Non Ave','FLN','Brookfield','N9D 8UF');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('4','9256 A, St.','LET','Jeffersonville','TB64 6BO');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('5','P.O. Box 563, 913 Malesuada Ave','GMP','Kingsport','JX01 1DI');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('6','2911 Pede. St.','LAN','North Tonawanda','H62 3FR');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('7','P.O. Box 253, 6280 Eget Street','SRK','Huntington','IA1K 1MJ');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('8','Ap #748-9029 Vestibulum Street','ELN','Manhattan Beach','VX7 4ZB');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('9','Ap #539-7887 Quam. St.','BEW','Salisbury','Y8Q 4EW');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('10','Ap #677-1211 Scelerisque Av.','LIN','Paterson','P8 4PY');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('11','Ap #667-5402 Cursus Ave','OKI','Fulton','G8 2RB');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('12','6667 Arcu. Road','AYR','Coos Bay','I22 2RV');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('13','Ap #793-4601 Non Av.','CAR','Meridian','D7K 3JM');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('14','185-8480 Nunc Av.','FIF','Bellingham','HG8Z 0ZU');
+INSERT INTO Address (customerId,addressLine1,addressLine2,town,postcode) VALUES ('15','P.O. Box 835, 2066 Auctor Ave','SLI','Redding','EH3Q 7DZ');
